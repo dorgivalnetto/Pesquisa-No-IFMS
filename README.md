@@ -62,7 +62,7 @@ _ESCLARECIMENTOS: A motivação para o envio do e-mail foi orientar àqueles que
 
 **A submissão de projetos para a Plataforma Brasil deve ocorrer antes da execução da pesquisa.**
 
-_Em relação aos demais tipos de pesquisa que podem ocorrer no âmbito do IFMS (PAT Pesquisa, TCCs, trabalhos em sala de aula, dentre outros) se mantem o procedimento já adotado pela instituição, contudo se houver a necessidade de submissão a Plataforma Brasil, o interessado deve seguir os trâmites do Informativo PROPI que está sendo encaminhado.
+_Em relação aos demais tipos de pesquisa que podem ocorrer no âmbito do IFMS (PAT Pesquisa, TCCs, trabalhos em sala de aula, dentre outros) se mantem o procedimento já adotado pela instituição, contudo se houver a necessidade de submissão a Plataforma Brasil, o interessado deve seguir os trâmites do Informativo PROPI que está sendo encaminhado._
 
 _Atenciosamente,_ 
 
