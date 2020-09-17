@@ -6,11 +6,13 @@ O conteúdo da página apresenta um resumo dos PROCEDIMENTOS PARA SOLICITAÇÃO 
 
 Atenciosamente, 
 
-Profº Me. Dorgival NettoCoordenador de Pesquisa e Inovação
+Profº Me. Dorgival Netto
+Coordenador de Pesquisa e Inovação
 Portaria nº 1.485 de 12 de Junho de 2017
 Campus Corumbá
 Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul
 Rua Pedro de Medeiros, 941 - Popular Velha CEP: 79310-110
+E-mail: copei.cb@ifms.edu.br
 TELEFONE (67) 3234-9101
 https://www.facebook.com/ifmscorumbaoficial
 
