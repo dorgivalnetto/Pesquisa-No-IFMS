@@ -20,7 +20,7 @@ https://www.facebook.com/ifmscorumbaoficial
 # PROCEDIMENTOS PARA SOLICITAÇÃO DE AUTORIZAÇÃO DE PESQUISA NO ÂMBITO DO IFMS
 
 ## Informações
-Para toda pesquisa que envolva seres humanos, ainda que seja um questionário, deve-se ter a análise prévia de um Comitê de Ética em Pesquisa, salvo os casos de dados coletados por docentes para fins didáticos. Desse modo, o interessado deve encaminhar exclusivamente para o e-mail: propi@ifms.edu.br:
+Para toda pesquisa que envolva seres humanos, ainda que seja um questionário, deve-se ter a análise prévia de um Comitê de Ética em Pesquisa, salvo os casos de dados coletados por docentes para fins didáticos. Desse modo, o interessado deve encaminhar exclusivamente para o e-mail: [sd.pesquisa@ifms.edu.br].
 - carta ou solicitação de desenvolvimento de pesquisa no âmbito do IFMS, indicando sua área de interesse;
 - seu projeto de pesquisa ou resumo deste, independente de contemplação em edital do IFMS, deixando claro e apresentando os dados que estão sendo solicitados, o questionário que será aplicado ou a intervenção que se deseja fazer;
 - comprovação de vínculo com um programa de graduação ou pós-graduação, se for o caso;
